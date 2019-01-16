@@ -1,2 +1,2 @@
 # TippyGame
-A game simialr to TicTacToe
+A game similar to TicTacToe
